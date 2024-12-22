@@ -1,0 +1,63 @@
+.editor-top-content h1 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 600;
+}
+#textarea-of-editor {
+  width: 45%;
+  height: 300px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 2px solid lightgray;
+  padding: 10px;
+  color: #000;
+}
+.copy-btn-of-editor {
+  width: 100px;
+  height: 50px;
+  border: 1px solid lightgray;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.button-of-styles-and-textarea {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
+
+.buttons-of-style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  column-gap: 20px;
+}
+.font-bold {
+  padding: 10px 20px;
+  border: 2px solid lightgray;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.italic {
+  padding: 10px 20px;
+  border: 2px solid lightgray;
+  margin-top: 20px;
+}
+
+.underline {
+  padding: 10px 20px;
+  border: 2px solid lightgray;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.buttons-of-style button:hover {
+  border: 2px solid #000;
+}
+.bold {
+  font-weight: 700;
+}
+
+.text-underline {
+  text-decoration: underline;
+}

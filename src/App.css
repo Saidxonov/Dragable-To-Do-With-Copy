@@ -1,0 +1,23 @@
+.head ul {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0px 20px 0px;
+}
+
+.header {
+  background-color: #000;
+  margin-bottom: 100px;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+.head ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}

@@ -1,0 +1,12 @@
+.todo-item {
+  padding: 10px;
+  margin: 5px 0;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.todo-item:hover {
+  background-color: #d3d3d3;
+}
