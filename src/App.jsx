@@ -1,7 +1,7 @@
 import { Routes, Route, NavLink } from "react-router-dom";
 import TodoApp from "./components/TodoApp/TodoApp.jsx";
 import Copy from "./components/copy/Copy.jsx";
-import TextEditor from "./components/TextEditor/texEditor.jsx";
+import TextEditor from "./components/TextEditor/TextEditor.jsx";
 import "./App.css";
 
 function App() {
